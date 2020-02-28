@@ -88,8 +88,3 @@ print(slownik3.items())
 
 
 
-
-
-
-
-
