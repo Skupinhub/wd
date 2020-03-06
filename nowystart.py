@@ -85,6 +85,14 @@ slownik3.keys()
 slownik3.values()
 print(slownik3.items())
 # zamiana
+# ===============================================================
+a = 3*1.0
+print(a)
+a,b = 3,6.5
+print(a,b)
+a = "Hello %(a)s"
+print(a % {'a' :b})
+# zmianaa
 
 
 
