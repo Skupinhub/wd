@@ -84,7 +84,7 @@ print(slownik3)
 slownik3.keys()
 slownik3.values()
 print(slownik3.items())
-zamiana
+# zamiana
 
 
 
